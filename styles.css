@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 #btn{
 	background-color:	#000000;
-	font-color:#FFFFFF;
+	color:#FFFFFF;
 	border-radius:5px;
 	border:none;
 /* 	button-type:subm */
@@ -10,6 +10,6 @@
 }
 #btn:hover {
     background-color: #FFFF00;
-    font-color: 	#000000;
+    color: 	#000000;
     border-radius: 30px;
 }
